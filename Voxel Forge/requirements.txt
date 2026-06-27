@@ -1,0 +1,6 @@
+numpy
+Pillow
+PyQt5
+pyqtgraph
+PyOpenGL
+PyOpenGL_accelerate

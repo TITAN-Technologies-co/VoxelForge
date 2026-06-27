@@ -1,0 +1,7 @@
+GROUND_SIZE 900
+GROUND_COLOR #606060
+SKY_COLOR #1A2230
+
+BOX 80 80 80 color=#43B5FF target=primary
+SPHERE 28 segments=26 rings=18 color=#F26F4C target=add
+CYLINDER 20 80 segments=24 color=#70D090 target=add
